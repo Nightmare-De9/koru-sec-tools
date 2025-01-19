@@ -144,9 +144,3 @@ Koru Sec Tools v1 is released under the **MIT License**. See the [LICENSE](LICEN
 ### About the Author
 
 This tool was developed by **@Nightmare-De9**, with the goal of helping users enhance their security and privacy while maintaining a user-friendly interface.
-
---- 
-
-### End of README
-
-This README provides a comprehensive guide on how to install and use the tools, how to contribute, and information about the license. Adjust the `yourusername` placeholders with your actual GitHub username or repository information when preparing the project for public use.
