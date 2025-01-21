@@ -1,6 +1,6 @@
 # Koru Sec Tools Installer v1
 # Project: koru-sec-tools-v1
-# Author: KoruSec
+# Author: Nightmare De9
 # Description: Install and verify security tools for privacy and anonymity on Windows
 
 # Color variables for colorful output
